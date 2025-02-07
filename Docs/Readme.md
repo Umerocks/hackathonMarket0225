@@ -132,9 +132,9 @@ The hackathon spanned **7 days**, structured with a targeted development cycle:
 
 ## **8️⃣ Final Submission**
 
-📌 **Live Demo:** [Xpert Decor Marketplace](https://hackthone-two.vercel.app/)  
+📌 **Live Demo:** [Xpert Decor Marketplace](https://hackathon-market0225.vercel.app/)  
 📌 **Investor Pitch Deck:** _[View Business Plan](#canmore/679a291b91d481919dc4ab3458fdfb1b)_  
-📌 **Resume:** _[View Resume](#canmore/679a292e1a4c8191ab741e1e52b4fb23)_
+_
 
 **🎯 Xpert Decor is now LIVE! Ready to scale and revolutionize online furniture shopping!** 🚀
 
